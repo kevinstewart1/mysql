@@ -10,11 +10,7 @@
 # Walkthrough
 <p align="center">
 <b></b> 1). Retrieving login attempts made after hours: <br/>
- This query will show me all the login attempts made after business hours.
- <br/> My query syntax would be as such. 
- <br/>
- <br/>
- " SELECT * FROM log_in_attempts WHERE login_time > 18:00:00 AND success = 0; " 
+ This query will show me all the login attempts made after business hours. 
   <br/>
   <img src="https://i.imgur.com/HAK3CKe.png" height="50%" width="50%"
 <br/>
@@ -36,18 +32,10 @@
   <img src="https://i.imgur.com/AvFVPHX.png" height="50%" width="50%"
   <br/>
 <br/>
-Step 5:
+ <br/>
+5). Retrieving all employees who are not in the Information Technology department
 <br/>
-The system will not enable an account that doesn't have a good password. In this case, the password is empty because we haven't set it. Obviously, an empty password is not a good password. I can set a password using the Reset password menu option. <br/>
-  <img src="https://i.imgur.com/J4G6BBd.png" height="20%" width="20%"
-  <br/>
-  <br />
-<br/>
-Step 6:
-<br/>
-Enter a password and confirm the password into the Reset Password window. I will make sure that the "User must change password at next logon" option is already checked, this will ensure that the user will change their password when they log in. So now I'll click on the OK button to set the password. The goal of this is that after they've logged in once, I will not know their new password. <br/>
-<img src="https://i.imgur.com/QngjwQ8.png" height="100%" width="100%"
-  <br/>
+  <img src="https://i.imgur.com/LZpHSrb.png" height="50%" width="50%"
   <br/>
  <br/> In Conclusion:
  <br/>
