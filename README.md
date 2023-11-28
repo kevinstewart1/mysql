@@ -9,26 +9,26 @@
 
 # Walkthrough
 <p align="center">
-<b></b>Retrieving log-in attempts made after hours: My query syntax would be as followed.
+<b></b> 1). Retrieving login attempts made after hours: <br/>
+ This query will show me all the login attempts made after business hours.
+ <br/> My query syntax would be as such. 
  <br/>
- " SELECT * FROM log_in_attempts WHERE login_time > AND success = 0; " 
+ <br/>
+ " SELECT * FROM log_in_attempts WHERE login_time > 18:00:00 AND success = 0; " 
   <br/>
- <br/>
   <img src="https://i.imgur.com/HAK3CKe.png" height="50%" width="50%"
 <br/>
   <br />
   <br/>
-  Step 2:
+  2). Retrieving login attempts on specific dates:
   <br /> 
-  I want to create a new user named Alex. To do that, I will click on the example (local) entry. This is the entry for the domain that my account is managing. I will scroll down and double click on the "Users" entry to see the list of users and groups that currently exist. <br/>
-  <img src="https://i.imgur.com/nEsuanm.png" height="90%" width="90%"
-<br />
+  <img src="https://i.imgur.com/3SrTnol.png" height="50%" width="50%"
+   <br />
 <br />
 <br/>
-Step 3: Adding the New User
-<br/>
-To create a new user, I will use the tasks list on the right. Under the "Users" section, there's a "New" menu entry, which opens a submenu to select what's the type of entity that you want to create. In this case, I want to create a new user, so I'll click on the User option.
-  <img src="https://i.imgur.com/FMGVs8f.png" height="115%" width="115%"
+Retrieving login attempts outside of Mexico using the "WHERE NOT" and "LIKE" operators.
+ <br/>
+  <img src="https://i.imgur.com/b8babV0.png" height="50%" width="50%"
   <br/>
   <br />
 <br/>
