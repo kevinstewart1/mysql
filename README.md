@@ -26,18 +26,15 @@
    <br />
 <br />
 <br/>
-Retrieving login attempts outside of Mexico using the "WHERE NOT" and "LIKE" operators.
+3). Retrieving login attempts outside of Mexico using the "WHERE NOT" and "LIKE" operators.
  <br/>
   <img src="https://i.imgur.com/b8babV0.png" height="50%" width="50%"
   <br/>
   <br />
 <br/>
-Step 4:
-<br/>
-This will open a new window that lets you fill in a number of fields related to the new user. There are a lot of fields available, but only a couple are mandatory (indicated with the red star). For now, I can leave the rest empty. The user that we are creating is named Alex, with their username being also alex. <br/>
-  <img src="https://i.imgur.com/i7OcAzO.jpg" height="80%" width="80%"
+4). Retrieving employees in Marketing, Sales, and Finance that work in the "East Buildings" <br/>
+  <img src="https://i.imgur.com/AvFVPHX.png" height="50%" width="50%"
   <br/>
-  <br />
 <br/>
 Step 5:
 <br/>
