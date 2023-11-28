@@ -1,13 +1,11 @@
-# mysql
-
-# Creating new users in Active Directory
+# SQL Filtering Queries
 
 # Description
- - This project consist of me simply demonstrating how to create a new user account using the Active Directory utility in 6 easy steps. The Active Directory Administrative Center allows you to manage your Active Directory installation, by configuring users, groups, computers, and much more.
+ - In this project, I will obtain specific information about employees, their machines, and the departments they belong to from a database. I will demonstrate how I would use the AND, OR, and NOT operators to create more complex filters for SQL queries.
    
 # Enviornments & Utilities Used
- - Active Directory
- - Windows 10 Virtual Machine
+ - mySQL
+ - MariaDB Shell
 
 # Walkthrough
 <p align="center">
