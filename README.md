@@ -41,4 +41,4 @@
  <br>
  In Summary:
  <br/>
- Comprehending the basic SQL syntax enables a more rapid and efficient filtration of information within a database. In this laboratory exercise, I applied several commonly used SQL operators like "OR," "LIKE," "AND," and "NOT" to navigate and analyze data commonly found in organizational databases.
+ Comprehending the basic SQL syntax enables a more rapid and efficient filtration of information within a database. In this lab exercise, I applied several commonly used SQL operators like "OR," "LIKE," "AND," and "NOT" to navigate and analyze data commonly found in organizational databases.
