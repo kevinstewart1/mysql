@@ -9,10 +9,12 @@
 
 # Walkthrough
 <p align="center">
-Step 1: <br/>
-  Launch Active Directory Administrative Center 
+<b></b>Retrieving log-in attempts made after hours: My query syntax would be as followed.
+ <br/>
+ " SELECT * FROM log_in_attempts WHERE login_time > AND success = 0; " 
   <br/>
-  <img src="https://i.imgur.com/2u7icMT.jpg" height="25%" width="30%"
+ <br/>
+  <img src="https://i.imgur.com/HAK3CKe.png" height="50%" width="50%"
 <br/>
   <br />
   <br/>
