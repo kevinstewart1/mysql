@@ -1,7 +1,7 @@
 # SQL Filtering Queries
 
 # Description
- - In this project, I will obtain specific information about employees, their machines, and the departments they belong to from a database. I will demonstrate how I would use the AND, OR, and NOT operators to create more complex filters for SQL queries.
+ - In this project, I will obtain specific information about employees, their machines, and the departments they belong to from a database. I will demonstrate how I would use the AND, OR, NOT, and LIKE operators to create more complex filters for SQL queries.
    
 # Enviornments & Utilities Used
  - mySQL
@@ -37,6 +37,8 @@
 <br/>
   <img src="https://i.imgur.com/LZpHSrb.png" height="50%" width="50%"
   <br/>
- <br/> In Conclusion:
+ <br/> 
+ <br>
+ In Summary:
  <br/>
   That's it! I have just created Alex as a user using the Active Directory tool. From there I could add Alex to a "Group" coinciding with the department Alex belongs to or is currently working with inside of our organization.
