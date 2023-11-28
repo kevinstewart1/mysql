@@ -12,30 +12,30 @@
 <b></b> 1). Retrieving login attempts made after hours: <br/>
  This query will show me all the login attempts made after business hours. 
   <br/>
-  <img src="https://i.imgur.com/HAK3CKe.png" height="50%" width="50%"
+  <img src="https://i.imgur.com/HAK3CKe.png" height="70%" width="70%"
 <br/>
   <br />
   <br/>
   2). Retrieving login attempts on specific dates:
   <br /> 
-  <img src="https://i.imgur.com/3SrTnol.png" height="50%" width="50%"
+  <img src="https://i.imgur.com/3SrTnol.png" height="70%" width="70%"
    <br />
 <br />
 <br/>
 3). Retrieving login attempts outside of Mexico using the "WHERE NOT" and "LIKE" operators.
  <br/>
-  <img src="https://i.imgur.com/b8babV0.png" height="50%" width="50%"
+  <img src="https://i.imgur.com/b8babV0.png" height="70%" width="70%"
   <br/>
   <br />
 <br/>
 4). Retrieving employees in Marketing, Sales, and Finance that work in the "East Buildings" <br/>
-  <img src="https://i.imgur.com/AvFVPHX.png" height="50%" width="50%"
+  <img src="https://i.imgur.com/AvFVPHX.png" height="70%" width="70%"
   <br/>
 <br/>
  <br/>
 5). Retrieving all employees who are not in the Information Technology department
 <br/>
-  <img src="https://i.imgur.com/LZpHSrb.png" height="50%" width="50%"
+  <img src="https://i.imgur.com/LZpHSrb.png" height="70%" width="70%"
   <br/>
  <br/> 
  <br>
