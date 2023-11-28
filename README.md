@@ -1,7 +1,7 @@
 # SQL Filtering Queries
 
 # Description
- - In this project, I will obtain specific information about employees, their machines, and the departments they belong to from a database. I will demonstrate how I would use the AND, OR, NOT, and LIKE operators to create more complex filters for SQL queries.
+ - In this project, my objective is to retrieve precise details regarding employees, their respective machines, and the departments to which they are affiliated from a database. I will illustrate the utilization of the AND, OR, NOT, and LIKE operators to construct more intricate filters for SQL queries.
    
 # Enviornments & Utilities Used
  - mySQL
@@ -41,4 +41,4 @@
  <br>
  In Summary:
  <br/>
-  That's it! I have just created Alex as a user using the Active Directory tool. From there I could add Alex to a "Group" coinciding with the department Alex belongs to or is currently working with inside of our organization.
+ Comprehending the basic SQL syntax enables a more rapid and efficient filtration of information within a database. In this laboratory exercise, I applied several commonly used SQL operators like "OR," "LIKE," "AND," and "NOT" to navigate and analyze data commonly found in organizational databases.
